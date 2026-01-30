@@ -17,5 +17,6 @@ After the download has been completed, you can run Anaconda and lunch Spyder. If
 Run the python script:<br>
 Once you run the script you will see printed the Number of Saccades (NOS) and Saccade Mean Velocity (SMV) in Spyder console. You will also see some plots generated. 
 
-<img width="2069" height="1058" alt="wmsa-01" src="https://github.com/user-attachments/assets/5a24e173-b79a-4dc4-8bd9-ce333a4b0663" />
+<img width="2596" height="1315" alt="wmsa-01-01" src="https://github.com/user-attachments/assets/34f27510-7b60-43b8-b07d-3837bb58d914" />
+
 
